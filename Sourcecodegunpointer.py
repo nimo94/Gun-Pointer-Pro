@@ -1,7 +1,7 @@
 #NOTICE/WARNING THIS CODE SOLELY CREATED BY DEV. ASWINDRA SELVAM AND
-#DEV.GANESAN SELVERAJU COPYING THIS MATERIAL IS AGAINST THE LAW
-#WE ARE NOT RESPONSIBLE FOR ANY SIMILAR CODES AROUND THE WORLD
+#DEV.GANESAN SELVERAJU
 #© GUNPOINTER 2025
+#v1.0b
 import customtkinter as ctk
 import threading
 import math
@@ -414,5 +414,6 @@ class ModernApp(ctk.CTk):
 if __name__ == "__main__":
     app = ModernApp()
     app.mainloop()
+
 
 
