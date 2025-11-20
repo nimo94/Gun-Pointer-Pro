@@ -215,7 +215,7 @@ class LogicEngine: #THE HEART OF THE SYSTEM
             score = 100
 
         return score, found_sources
-#SECRET OF THE CODE RELIES HERE ANY ATTEMPTED COPY OF OUR PROJECT WILL BE CAUGHT HERE (ASWINDRA SELVAM/GANESAN SELVARAJU)
+        
     def check_ai(self, text): #AI CHECKER IN THE LOGIC OF Stylometric Estimate
         clean_text = self.clean_text_for_search(text)
         sentences = self.get_sentences(clean_text)
@@ -414,6 +414,7 @@ class ModernApp(ctk.CTk):
 if __name__ == "__main__":
     app = ModernApp()
     app.mainloop()
+
 
 
 
