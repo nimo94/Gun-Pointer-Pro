@@ -67,7 +67,7 @@ A standalone **Windows .exe** version of Gun Pointer Pro is available.
 * No dependency installation
 * Just download and double‑click to run
 
-👉 *(Add your download link or GitHub Releases URL here)*
+👉 *(https://github.com/nimo94/Gun-Pointer-Pro/releases/tag/Releases)*
 
 ---
 
