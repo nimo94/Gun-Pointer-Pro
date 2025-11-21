@@ -93,7 +93,7 @@ pip install customtkinter packaging google-search-results python-docx pymupdf
 
 ### **3. Configure API Key**
 
-Open **`modern_detector.py`** and find:
+Open **`sourcecode.py`** and find:
 
 ```python
 SERP_API_KEY = "YOUR_API_KEY_HERE"
@@ -106,7 +106,7 @@ Replace the value with your SerpApi key.
 ### **4. Launch the Application**
 
 ```bash
-python modern_detector.py
+python sourcecode.py
 ```
 
 ---
