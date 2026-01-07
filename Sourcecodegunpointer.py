@@ -1,7 +1,12 @@
-#NOTICE/WARNING THIS CODE SOLELY CREATED BY DEV. ASWINDRA SELVAM AND
-#DEV.GANESAN SELVERAJU
-#© GUNPOINTER 2025
-#v1.0b
+# -*- coding: utf-8 -*-
+# ----------------------------------------------------------------------------
+# Project: GunPointer Pro - Advanced Content Verification System
+# Version: 1.0b (Open Source Edition)
+# Copyright: (c) 2025 Dev. Aswindra Selvam & Dev. Ganesan Selveraju
+# License: MIT License (Open Source)
+# Description: A GUI-based tool for plagiarism checking via SERP and
+# stylometric AI detection algorithms.
+#----------------------------------------------------------------------------
 import customtkinter as ctk
 import threading
 import math
@@ -414,6 +419,7 @@ class ModernApp(ctk.CTk):
 if __name__ == "__main__":
     app = ModernApp()
     app.mainloop()
+
 
 
 
